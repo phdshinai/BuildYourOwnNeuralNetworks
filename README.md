@@ -31,22 +31,14 @@ Chapter Codes
 Each code file is named according to the chapter and section from the book. Below is a brief description of what you can find in each file:
 
 Chapter 1: Introduction to Neural Networks
-
-	1.2 How Do Neural Networks Work.ipynb
-
-	1.3 Applications of Neural Networks.ipynb
-
+1.2 How Do Neural Networks Work.ipynb
+1.3 Applications of Neural Networks.ipynb
 Chapter 2: Setup and Installation
-
-	2.5 Basics of Python for Neural Networks.ipynb
-
+2.5 Basics of Python for Neural Networks.ipynb
 Chapter 3: Numpy for Neural Networks
-
-	3.1 Introduction to Numpy.ipynb
-
-	3.2 Arrays in Numpy.ipynb
-
-	and so on..
+3.1 Introduction to Numpy.ipynb
+3.2 Arrays in Numpy.ipynb
+and so on..
 
 ## Running the Code
 To run the code examples, open the corresponding Jupyter Notebook file by clicking on it. Ensure you have Jupyter Notebook installed and running. If you don't have Jupyter Notebook installed, you can install it using:
