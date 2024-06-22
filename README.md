@@ -1,106 +1,63 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "ba28a24e-da07-4f8c-ad1d-f6b57276a7b3",
-   "metadata": {},
-   "source": [
-    "# Build Your Own Neural Networks: Step-By-Step Explanation For Beginners\n",
-    "\n",
-    "Welcome to the official GitHub repository for the book **Build Your Own Neural Networks: Step-By-Step Explanation For Beginners**. This repository contains code examples from each chapter of the book, organized for easy reference and execution.\n",
-    "\n",
-    "## Table of Contents\n",
-    "\n",
-    "1. [Introduction](#introduction)\n",
-    "2. [Getting Started](#getting-started)\n",
-    "3. [Chapter Codes](#chapter-codes)\n",
-    "4. [Running the Code](#running-the-code)\n",
-    "5. [Contact](#contact)\n",
-    "\n",
-    "## Introduction\n",
-    "\n",
-    "This repository provides the code examples from the book **Build Your Own Neural Networks: Step-By-Step Explanation For Beginners**. You will find complete scripts that can be run directly, as well as code snippets illustrating specific concepts. Please use the code with care and attention to context, as some snippets are intended only to demonstrate usage and might require additional setup to run.\n",
-    "\n",
-    "## Getting Started\n",
-    "\n",
-    "To get started with the code examples in this repository, clone the repository to your local machine using:\n",
-    "\n",
-    "```sh\n",
-    "git clone https://github.com/yourusername/your-repo-name.git\n",
-    "```\n",
-    "\n",
-    "Make sure you have the necessary dependencies installed. You can install the required Python packages using:\n",
-    "```sh\n",
-    "pip install -r requirements.txt\n",
-    "```\n",
-    "## Chapter Codes\n",
-    "Each code file is named according to the chapter and section from the book.\n",
-    "\n",
-    "Chapter 1: Introduction to Neural Networks\n",
-    "\n",
-    "    1.2 How Do Neural Networks Work.ipynb\n",
-    "    \n",
-    "    1.3 Applications of Neural Networks.ipynb\n",
-    "\n",
-    "Chapter 2: Setup and Installation\n",
-    "\n",
-    "    2.5 Basics of Python for Neural Networks.ipynb\n",
-    "\n",
-    "Chapter 3: Numpy for Neural Networks\n",
-    "\n",
-    "    3.1 Introduction to Numpy.ipynb\n",
-    "\n",
-    "and so on..\n",
-    "\n",
-    "## Running the Code\n",
-    "To run the code examples, open the corresponding Jupyter Notebook file by clicking on it. Ensure you have Jupyter Notebook installed and running. If you don't have Jupyter Notebook installed, you can install it using:\n",
-    "\n",
-    "```sh\n",
-    "pip install jupyter\n",
-    "```\n",
-    "This will open a new tab in your default web browser. Navigate to the cloned repository folder and click on the desired notebook to open and run it.\n",
-    "\n",
-    "## Contact\n",
-    "If you have any questions or run into any issues, please feel free to contact us at fusionlab.ai@gmail.com.\n",
-    "\n",
-    "## Additional Notes\n",
-    "This repository includes both full scripts and code snippets. Pay close attention to the context provided in the book to understand how to use each snippet effectively.\n",
-    "The code is intended for educational purposes and might require adaptation for use in production environments.\n",
-    "We hope you find this repository helpful in your journey to understand and build neural networks. Happy coding!\n",
-    "\n",
-    "```vbnet\n",
-    "This `README.md` file now provides comprehensive instructions on how to run the Jupyter Notebook files, ensuring users understand how to set up and execute the code examples provided in your book. Adjust the repository URL and any other specific details as necessary.\n",
-    "```"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "d6be81e0-55c3-46df-bfe5-ed82918a5683",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "env_BuildYourOwnNN",
-   "language": "python",
-   "name": "env_buildyourownnn"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.10.14"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# Build Your Own Neural Networks: Step-By-Step Explanation For Beginners
+
+Welcome to the official GitHub repository for the book **Build Your Own Neural Networks: Step-By-Step Explanation For Beginners**. This repository contains code examples from each chapter of the book, organized for easy reference and execution.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+3. [Chapter Codes](#chapter-codes)
+4. [Running the Code](#running-the-code)
+5. [Contact](#contact)
+
+## Introduction
+
+This repository provides the code examples from the book **Build Your Own Neural Networks: Step-By-Step Explanation For Beginners**. You will find complete scripts that can be run directly, as well as code snippets illustrating specific concepts. Please use the code with care and attention to context, as some snippets are intended only to demonstrate usage and might require additional setup to run.
+
+## Getting Started
+
+To get started with the code examples in this repository, clone the repository to your local machine using:
+
+```sh
+git clone https://github.com/yourusername/your-repo-name.git
+```
+
+Make sure you have the necessary dependencies installed. You can install the required Python packages using:
+```sh
+pip install -r requirements.txt
+```
+
+Chapter Codes
+Each code file is named according to the chapter and section from the book. Below is a brief description of what you can find in each file:
+Chapter 1: Introduction to Neural Networks
+	1.2 How Do Neural Networks Work.ipynb
+	1.3 Applications of Neural Networks.ipynb
+Chapter 2: Setup and Installation
+	2.5 Basics of Python for Neural Networks.ipynb
+Chapter 3: Numpy for Neural Networks
+	3.1 Introduction to Numpy.ipynb
+	3.2 Arrays in Numpy.ipynb
+	and so on..
+
+## Running the Code
+To run the code examples, open the corresponding Jupyter Notebook file by clicking on it. Ensure you have Jupyter Notebook installed and running. If you don't have Jupyter Notebook installed, you can install it using:
+
+```sh
+pip install jupyter
+```
+
+Start Jupyter Notebook by running the following command in your terminal or command prompt:
+```sh
+jupyter notebook
+```
+This will open a new tab in your default web browser. Navigate to the cloned repository folder and click on the desired notebook to open and run it.
+
+## Contact
+If you have any questions or run into any issues, please feel free to contact us at fusionlab.ai@gmail.com.
+
+## Additional Notes
+This repository includes both full scripts and code snippets. Pay close attention to the context provided in the book to understand how to use each snippet effectively.
+The code is intended for educational purposes and might require adaptation for use in production environments.
+We hope you find this repository helpful in your journey to understand and build neural networks. Happy coding!
+
+
