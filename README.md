@@ -19,7 +19,7 @@ This repository provides the code examples from the book **Build Your Own Neural
 To get started with the code examples in this repository, clone the repository to your local machine using:
 
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/phdshinai/BuildYourOwnNeuralNetworks.git
 ```
 
 Make sure you have the necessary dependencies installed. You can install the required Python packages using:
